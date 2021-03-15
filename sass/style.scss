@@ -1,7 +1,6 @@
 
-
-@import "media";
 @import "main";
+@import "media";
 
 // colors ==============================================================================
 $cl1: #EF2779;
@@ -13,9 +12,7 @@ $cl-bg: #252B42;
 
 
 
-* {
-   box-sizing: border-box;
-}
+
 body {
    font-family: 'Roboto', sans-serif;
    color: $cl-text2;
