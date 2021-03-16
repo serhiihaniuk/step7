@@ -800,13 +800,13 @@ h1 {
 
    &__item {
       flex: 0 0 45%;
-      margin: 0px 0px 15px 0px;
+      margin: 0px 0px 35px 0px;
       @media (max-width: $bp2) {
          flex: 0 0 60%;
-         margin: 0px 0px 35px 0px;
+         margin: 0px 0px 65px 0px;
       }
       @media (max-width: $bp3) {
-         flex: 0 0 290px;
+         flex: 0 0 300px;
          
       }
    }
@@ -1126,7 +1126,7 @@ h1 {
 .message {
    padding: 79px 41px 26px 41px;
    @media (max-width: $bp3) {
-      padding: 30px 10px 20px 10px;
+      padding: 30px 30px 20px 30px;
    }
 
    &__name {

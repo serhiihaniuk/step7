@@ -1070,7 +1070,7 @@ h1 {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 45%;
           flex: 0 0 45%;
-  margin: 0px 0px 15px 0px;
+  margin: 0px 0px 35px 0px;
 }
 
 @media (max-width: 992px) {
@@ -1078,15 +1078,15 @@ h1 {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 60%;
             flex: 0 0 60%;
-    margin: 0px 0px 35px 0px;
+    margin: 0px 0px 65px 0px;
   }
 }
 
 @media (max-width: 768px) {
   .monero__item {
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 290px;
-            flex: 0 0 290px;
+        -ms-flex: 0 0 300px;
+            flex: 0 0 300px;
   }
 }
 
@@ -1498,7 +1498,7 @@ h1 {
 
 @media (max-width: 768px) {
   .message {
-    padding: 30px 10px 20px 10px;
+    padding: 30px 30px 20px 30px;
   }
 }
 
