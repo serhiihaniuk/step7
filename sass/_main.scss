@@ -325,9 +325,9 @@ h1 {
       flex: 0 0 55%;
       height: 80%;
       text-align: center;
-      background-image: url(../img/screen2.webp);
-      background-size: cover;
-      background-position: center right;
+      background-image: url(../img/screen3.jpg);
+      background-size: contain;
+      background-position: center left;
       background-repeat: no-repeat;
       overflow: hidden;
 
@@ -964,7 +964,7 @@ h1 {
 
 // ! CONTACTS ======================================================================
 
-.contact {
+.contact {    // ! BLOCK!!!!
    padding: 80px 0;
    text-align: center;
    background-color: #252b42;
@@ -1202,7 +1202,7 @@ h1 {
 
 // !footer ==========================================================================
 
-.footer {
+.footer {    
    padding: 80px 0;
    color: #18171d;
 
